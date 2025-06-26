@@ -4,17 +4,6 @@ Welcome to the go-to guide for writing meaningful, user-focused, and scalable do
 
 ---
 
-## 🧭 Table of Contents
-1. [Why Documentation Matters](#why-documentation-matters)
-2. [Core Principles of Effective Documentation](#core-principles-of-effective-documentation)
-3. [Documentation for DevOps Projects](#documentation-for-devops-projects)
-4. [API Documentation for Developers](#api-documentation-for-developers)
-5. [Open Source & Community Contribution](#open-source--community-contribution)
-6. [Recommended Tools](#recommended-tools)
-7. [Further Reading](#further-reading)
-
----
-
 ## Why Documentation Matters
 
 > “Good code is only as good as the documentation that helps people understand it.”
