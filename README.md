@@ -1,6 +1,6 @@
 # Essentials of Effective Documentation for Developers & DevOps
 
-Welcome to the go-to guide for writing meaningful, user-focused, and scalable documentation — whether you're a DevOps engineer, API developer, or open-source contributor.
+Welcome to the go-to guide for writing meaningful, user-focused, and scalable documentation, whether you're a DevOps engineer, API developer, or open-source contributor.
 
 ---
 
