@@ -28,12 +28,12 @@ Welcome to the go-to guide for writing meaningful, user-focused, and scalable do
 
 ## Documentation for DevOps Projects
 
-In DevOps, documentation isn't an add-on — it's infrastructure.
+In DevOps, documentation isn't an add-on; it's infrastructure.
 
 ### What to Include:
 - **Infrastructure Overview** – Cloud architecture diagrams, provisioning flow
 - **CI/CD Pipelines** – How code gets from dev to production
-- **Monitoring & Logging** – Where to find logs, alerts, dashboards
+- **Monitoring & Logging** – Where to find logs, alerts, and dashboards
 - **Disaster Recovery & Rollbacks** – Playbooks for outages
 - **Secrets Management** – How and where secrets are stored/rotated
 
@@ -83,6 +83,6 @@ A great API is only as useful as the documentation that explains it.
 ---
 
 
-Feel free to fork this repo or contribute your own tips via PRs! 
+Feel free to fork this repo or contribute your tips via PRs! 
 
 ---
